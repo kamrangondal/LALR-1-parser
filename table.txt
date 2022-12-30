@@ -1,0 +1,13 @@
++	*	a	b	(	)	$	E	T	F
+X	X	S3	S4	S5	X	X	X	1	2
+acc	S6	X	X	X	acc	acc	X	X	X
+R2	R2	X	X	X	R2	R2	X	X	X
+R4	R4	X	X	X	R4	R4	X	X	X
+R5	R5	X	X	X	R5	R5	X	X	X
+X	X	S3	S4	S5	X	X	7	1	2
+X	X	S3	S4	S5	X	X	X	X	8
+S10	X	X	X	X	S9	X	X	X	X
+R3	R3	X	X	X	R3	R3	X	X	X
+R6	R6	X	X	X	R6	R6	X	X	X
+X	X	S3	S4	S5	X	X	X	11	2	
+R1	S6	X	X	X	R1	X	X	X	X
